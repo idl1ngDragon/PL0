@@ -3,3 +3,7 @@
 1. Git报错解决：OpenSSL SSL_read: Connection was reset, errno 10054 错误解决
 git config --global http.sslVerify "false"
 git config --global https.sslVerify "false"
+
+2.git-pull-commit问题：
+https://stackoverflow.com/questions/32056324/
+there-is-no-tracking-information-for-the-current-branch?answertab=trending#tab-top
