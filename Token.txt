@@ -10,3 +10,5 @@ git config --global https.sslVerify "false"
 2.git-pull-commit问题：
 https://stackoverflow.com/questions/32056324/
 there-is-no-tracking-information-for-the-current-branch?answertab=trending#tab-top
+
+3.are you ok ？
