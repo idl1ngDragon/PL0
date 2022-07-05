@@ -1,5 +1,8 @@
 351ddad8978c7a9c2d43b29b41d64a3caa50d334
 
+0. HTTPS方式每次都要验证多次密码，改为SSH方式：（虽然每次还是要输入密码，但是比之前一直输入账号密码和口令好多了）
+https://blog.csdn.net/weixin_39862794/article/details/113073899
+
 1. Git报错解决：OpenSSL SSL_read: Connection was reset, errno 10054 错误解决
 git config --global http.sslVerify "false"
 git config --global https.sslVerify "false"
