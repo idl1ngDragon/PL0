@@ -1,4 +1,5 @@
 351ddad8978c7a9c2d43b29b41d64a3caa50d334
 
+1. Git报错解决：OpenSSL SSL_read: Connection was reset, errno 10054 错误解决
 git config --global http.sslVerify "false"
 git config --global https.sslVerify "false"
